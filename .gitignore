@@ -1,0 +1,10 @@
+plugged/jellybeans.vim/
+plugged/plenary.nvim/
+plugged/sonokai/
+plugged/telescope-fzf-native.nvim/
+plugged/telescope.nvim/
+plugged/tokyonight-vim/
+shada/
+lsp.log
+log
+telescope_history
