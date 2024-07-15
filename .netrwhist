@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='C:/Users/escas/AppData/Local/nvim-data/.git/logs/refs'
+let g:netrw_dirhist_5='C:/Users/escas/AppData/Local/nvim-data/.git/logs'
+let g:netrw_dirhist_4='C:/Users/escas/AppData/Local/nvim-data/.git'
+let g:netrw_dirhist_3='C:/Users/escas/AppData/Local/nvim-data/.git/refs'
+let g:netrw_dirhist_2='C:/Users/escas/AppData/Local/nvim-data/.git/refs/tags'
+let g:netrw_dirhist_1='C:/Users/escas/AppData/Local/nvim-data/.git/refs'
+let g:netrw_dirhist_0='C:/Users/escas/AppData/Local/nvim-data/.git/info'
+let g:netrw_dirhist_9='C:/Users/escas/AppData/Local/nvim-data/.git'
+let g:netrw_dirhist_8='C:/Users/escas/AppData/Local/nvim-data/.git/refs'
+let g:netrw_dirhist_7='C:/Users/escas/AppData/Local/nvim-data/.git/refs/remotes'
